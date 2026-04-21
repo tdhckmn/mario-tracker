@@ -1,0 +1,103 @@
+{
+  "company": {
+    "name": "Helpful Heating & Air, LLC",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Services",
+      "href": "services"
+    },
+    {
+      "name": "Brands",
+      "href": "brands"
+    },
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Call for Service",
+    "href": "tel:313-383-0000"
+  },
+  "mainHero": {
+    "title": "Helpful Heating",
+    "subtitle": "and Air",
+    "description": "We provide a wide range of services to meet all your heating, ventilation, and air conditioning needs. Our team of experts is dedicated to providing you with the highest quality service and ensuring your complete satisfaction.",
+    "img": "/assets/images/image3.jpeg",
+    "primaryAction": {
+      "text": "Call for Service",
+      "href": "tel:313-383-0000"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:helpfulheating@gmail.com?subject=I would like a free estimate"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "items": [
+      {
+        "title": "Forced Air and Radiant Heat",
+        "description": "Heating and cooling, heating and cooling. Forced air is nice. Radiant heat systems lorem ipsum dolor sit amet.",
+        "img": "/assets/images/image1.png"
+      },
+      {
+        "title": "Water Heaters",
+        "description": "Heaters water aqua lorem dolor sit hot water amet.",
+        "img": "/assets/images/image2.png"
+      }
+    ]
+  },
+  "brands": {
+    "title": "Brands",
+    "subtitle": "We service the best.",
+    "description": "We are experienced in servicing and installing the nation's leading brands.",
+    "items": [
+      {
+        "name": "Trane",
+        "description": "Trane is a well-regarded brand that has been around for over 135 years. They are known for building reliable and efficient HVAC systems. Their products have some of the highest dependability ratings in the industry.",
+        "icon": "/assets/images/trane.png"
+      },
+      {
+        "name": "Rheem",
+        "description": "Rheem produces some of the most energy-efficient air conditioner heat pump combos on the market.",
+        "icon": "/assets/images/rheem.png"
+      },
+      {
+        "name": "Lennox",
+        "description": "Lennox is a brand that focuses primarily on comfort features and reliability.",
+        "icon": "/assets/images/lennox.png"
+      },
+      {
+        "name": "Carrier",
+        "description": "Carrier is known for their high-performance air conditioning systems. They offer a wide range of products to meet all your HVAC needs.",
+        "icon": "/assets/images/carrier.png"
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "(313) 383-0000",
+        "href": "tel:313-383-0000",
+        "content": "#"
+      },
+      {
+        "name": "helpfulheating@gmail.com",
+        "href": "mailto:helpfulheating@gmail.com",
+        "content": "#"
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
